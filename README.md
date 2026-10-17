@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shubham Raut 👋</h1>
-<h3 align="center">Software Engineer @ BNSF · AI Agents · Optimization · Data Science</h3>
+<h3 align="center">Data Scientist & Software Engineer @ BNSF · AI Agents · Optimization</h3>
 
 <p align="center">
   I build LLM-powered applications, data pipelines, and the backend systems that keep them reliable in production.
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚆 **Software Engineer** at **BNSF Railway** – AI agents for rail-yard operations planning
+- 🚆 **Data Scientist / Software Engineer** at **BNSF Railway** (Technology – Data & AI) – AI agents and optimization for rail-yard operations planning
 - 🤖 Previously **Full Stack Engineer – Gen AI** at **Saayam For All** – vector search, RAG retrieval, and async services handling 500+ requests/min
 - ⚙️ **AI Engineer** at **Mentor Students & Juniors** – built a real-time model-pricing anomaly tracker and n8n automation with LLMs
 - 🏥 **Data Scientist** at **UST** (2021–2023) – healthcare predictive models and pipelines over 10M+ insurance claims
