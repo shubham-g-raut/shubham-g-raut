@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🚆 **Data Scientist / Software Engineer** at **BNSF Railway** (Technology – Data & AI) – AI agents and optimization for rail-yard operations planning
+- 🚆 **Data Scientist / Software Engineer** at **BNSF Railway** (Technology – Data & AI, since Feb 2026) – AI agents and optimization for rail-yard operations planning; remote, with forward deployments to rail yards across the U.S.
 - 🤖 Previously **Full Stack Engineer – Gen AI** at **Saayam For All** – vector search, RAG retrieval, and async services handling 500+ requests/min
 - ⚙️ **AI Engineer** at **Mentor Students & Juniors** – built a real-time model-pricing anomaly tracker and n8n automation with LLMs
 - 🏥 **Data Scientist** at **UST** (2021–2023) – healthcare predictive models and pipelines over 10M+ insurance claims
@@ -26,7 +26,7 @@
 
 ## 🔭 What I'm Working On
 
-🔭 **At BNSF:** building LLM agents for rail-yard operations planning – agent orchestration, optimization, API design, and evaluation on real operational data.
+🔭 **At BNSF:** building LLM agents for rail-yard operations planning – agent orchestration, optimization, API design, and evaluation on real operational data. I also travel on site to yards to run initial deployments and gather requirements directly from operators.
 
 ---
 
