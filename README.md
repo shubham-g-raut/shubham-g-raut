@@ -3,9 +3,9 @@
 <h3 align="center">AI/ML Engineer | Data Scientist | Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rautshubham28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/rautshubham28?tab=followers">
-    <img src="https://img.shields.io/github/followers/rautshubham28?label=Followers&style=social" alt="followers count">
+  <img src="https://komarev.com/ghpvc/?username=shubham-g-raut&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/shubham-g-raut?tab=followers">
+    <img src="https://img.shields.io/github/followers/shubham-g-raut?label=Followers&style=social" alt="followers count">
   </a>
 </p>
 
@@ -55,5 +55,5 @@
 <p align="center">
   <a href="mailto:rautshubham28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shubham-g-raut"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/rautshubham28"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://github.com/shubham-g-raut"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
