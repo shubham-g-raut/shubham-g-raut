@@ -18,7 +18,6 @@
 - 🚆 **Software Engineer** at **BNSF Railway**
 - 🤖 Previously **Full Stack Engineer – Gen AI** at **Saayam For All** – vector search, RAG retrieval, and async services handling 500+ requests/min
 - ⚙️ **AI Engineer** at **Mentor Students & Juniors** – built a real-time model-pricing anomaly tracker and n8n automation with LLMs
-- 🌪️ **Research Associate**, University of Utah – CNN models for cyclone detection on 300+ GB of ERA5 climate data
 - 🏥 **Data Scientist** at **UST** (2021–2023) – healthcare predictive models and pipelines over 10M+ insurance claims
 - 🎓 **M.S. Computer Science**, University of Utah (2025) · **B.E. Computer Engineering**, Pune University (2021)
 - 📜 **AWS Certified AI Practitioner**
